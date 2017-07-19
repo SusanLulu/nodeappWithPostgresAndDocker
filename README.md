@@ -1,7 +1,7 @@
 # Nodeapp with Postgres and Docker
 
-========================================
-this is an exercise from CodeSchool
+
+### this is an exercise from CodeSchool
 * set up docker environment
 * set up node inside docker
 * set up postgres inside docker and connect to node
@@ -67,7 +67,7 @@ EXPOSE 5432
 ```
 
 
-##this code is for first time to setup docker environment:
+## this code is for first time to setup docker environment:
 
 ```
 docker command line:
